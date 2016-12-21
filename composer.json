@@ -1,0 +1,16 @@
+{
+    "name": "icash-pl/market",
+    "description": "iCash Market",
+    "keywords": ["icash", "api", "market"],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0",
+        "icash-pl/api-php": "^1.0.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "iCashpl\\Market\\": "src/"
+        }
+    },
+    "minimum-stability": "stable"
+}
