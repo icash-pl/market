@@ -1,11 +1,6 @@
 iCash.pl: Market
 ==
 
-## Quick Installation
-```php   
-composer require icash-pl/market
-```
-
 ## Getting started
 
 ```php

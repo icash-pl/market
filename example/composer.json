@@ -1,0 +1,5 @@
+{
+    "require": {
+        "icash-pl/market": "^1.0"
+    }
+}
